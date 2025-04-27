@@ -33,7 +33,7 @@
 A healthcare patient management application that allows patients to register, book, and manage their appointments with doctors.  
 It features administrative tools for scheduling, confirming, and canceling appointments, along with SMS notifications, all built with Next.js.
 
-For community help and discussions, join [our Discord](https://discord.com/invite/n6EdbFJ).
+
 
 ---
 
