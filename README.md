@@ -19,12 +19,13 @@
 ## Table of Contents
 
 1. [Introduction](#introduction)  
-2. [Tech Stack](#tech-stack)  
-3. [Features](#features)  
-4. [Quick Start](#quick-start)  
-5. [Snippets](#snippets)  
-6. [Assets](#assets)  
-7. [License](#license)
+2. [Live Website](#live-website)
+3. [Tech Stack](#tech-stack)  
+4. [Features](#features)  
+5. [Quick Start](#quick-start)  
+6. [Snippets](#snippets)  
+7. [Assets](#assets)  
+8. [License](#license)
 
 ---
 
@@ -33,7 +34,11 @@
 A healthcare patient management application that allows patients to register, book, and manage their appointments with doctors.  
 It features administrative tools for scheduling, confirming, and canceling appointments, along with SMS notifications, all built with Next.js.
 
+---
 
+## Live Website
+
+🌐 **Live Demo**: [https://health-care-liart-five.vercel.app](https://health-care-liart-five.vercel.app)
 
 ---
 
@@ -139,5 +144,3 @@ Feel free to use, modify, and distribute for both personal and commercial purpos
 ---
 
 # 🚀 Happy Coding!
-
-
